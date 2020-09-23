@@ -1,5 +1,6 @@
 # Recommendation_Systems_study
-Comparison of performance evaluation of the baseline and hybrid recommendation systems using various metrics, to prove that hybrid systems perform better
+Comparison of performance evaluation of the baseline and hybrid recommendation systems using various metrics, to prove that hybrid systems perform better.
+We used movielens 100k dataset from movielens website.
 
 
 README file
